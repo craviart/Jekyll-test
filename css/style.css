@@ -255,7 +255,6 @@ header {
 
 @media screen and (min-width: 40em) {
   .nav-collapse a {
-    padding: 1.02em 2em;
     text-align: center;
     border-top: 0;
     float: left;
