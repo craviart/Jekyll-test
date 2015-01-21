@@ -237,7 +237,7 @@ header {
 }
 
 .nav-collapse a {
- color: black;
+    color: #9C9A9A;
     float: left;
     font-family: "futura-pt",sans-serif;
     font-size: 0.8em;
