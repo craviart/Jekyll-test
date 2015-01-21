@@ -239,7 +239,7 @@ header {
 .nav-collapse a {
     color: #9C9A9A;
     line-height: 80px;
-    padding-left: 30px;
+    padding-left: 15px;
     float: left;
     font-family: "futura-pt",sans-serif;
     font-size: 0.8em;
@@ -253,7 +253,7 @@ header {
 .menu_dash {
     color: #9C9A9A;
     line-height: 80px;
-    padding-left: 30px;
+    padding-left: 15px;
     float: left;
     font-family: "futura-pt",sans-serif;
     font-size: 0.8em;
