@@ -250,6 +250,10 @@ header {
     width: 100%;
 }
 
+.nav-collapse a:hover {
+    color: black;
+}
+
 .menu_dash {
     color: #9C9A9A;
     line-height: 80px;
