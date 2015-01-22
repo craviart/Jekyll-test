@@ -139,14 +139,25 @@ header {
   top: 0;
 }
 
-.logo {
+.logo_1 {
   text-decoration: none;
   font-weight: bold;
   line-height: 80px;
-  padding: 0 20px;
+  padding-top: 7px;
+  padding-left: 20px;
   color: black;
   float: left;
 }
+
+.logo_2 {
+  text-decoration: none;
+  font-weight: bold;
+  line-height: 80px;
+  margin-left: 15px;
+  color: black;
+  float: left;
+}
+
 
 
 /* ------------------------------------------
@@ -193,6 +204,13 @@ header {
 @media screen and (max-width: 1200px) {
  .cont_nav{
   width: 100%;}
+
+}
+
+@media screen and (max-width: 850px) {
+  .logo_2 {
+  display: none;
+}
 }
 
 
@@ -251,7 +269,7 @@ header {
 }
 
 .nav-collapse a:hover {
-    color: black;
+    color: #282727;
 }
 
 .menu_dash {
@@ -280,6 +298,8 @@ header {
     float: left;
     margin: 0;
   }
+
+  
 }
 
 .nav-collapse ul ul a {
@@ -291,6 +311,8 @@ header {
   .nav-collapse ul ul a {
     display: none;
   }
+
+
 }
 
 
