@@ -299,7 +299,9 @@ header {
     margin: 0;
   }
 
-  
+  .menu_dash{
+    display: none;
+  }
 }
 
 .nav-collapse ul ul a {
@@ -311,7 +313,9 @@ header {
   .nav-collapse ul ul a {
     display: none;
   }
-
+.menu_dash{
+    display: none;
+  }
 
 }
 
